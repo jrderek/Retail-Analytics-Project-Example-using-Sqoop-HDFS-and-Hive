@@ -1,0 +1,1 @@
+# Retail-Analytics-Project-Example-using-Sqoop-HDFS-and-Hive
